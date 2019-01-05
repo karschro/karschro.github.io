@@ -5,7 +5,7 @@
 #
 title: Karen E. Schroeder
 email: karsch@gmail.com
-description: A neuroscientist and engineer, now at Columbia University's Zuckerman Institute.
+description: Site of a neuroscientist and engineer
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -35,8 +35,8 @@ kramdown:
 owner:
   name: Karen E. Schroeder
   avatar: headshot.jpg
-  job: "Postdoc"
-  bio: "A neuroscientist and engineer, now at Columbia University's Zuckerman Institute"
+  job: "Postdoc neuroscientist and engineer"
+  bio: "Developing Brain-Machine Interfaces at Columbia University's Zuckerman Institute"
   email: karsch@gmail.com
   disqus-shortname:
   twitter: schroeder_ke
