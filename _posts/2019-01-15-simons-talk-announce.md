@@ -10,4 +10,3 @@ Coming up on January 15, 2019: Giving talk at Simons Foundation, at their SCGB (
 
 Title: A brain-machine interface for locomotion driven by subspace dynamics. 
 
-[linktest][http://churchland.zuckermaninstitute.columbia.edu]
