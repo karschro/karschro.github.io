@@ -9,3 +9,5 @@ link: https://www.eventbrite.com/e/scgb-ny-area-postdoc-meeting-new-location-162
 Coming up on January 15, 2019: Giving talk at Simons Foundation, at their SCGB (Simons Collaboration on the Global Brain) NY-area postdoc meeting. 
 
 Title: A brain-machine interface for locomotion driven by subspace dynamics. 
+
+[linktest][http://churchland.zuckermaninstitute.columbia.edu]
