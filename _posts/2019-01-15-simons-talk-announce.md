@@ -4,7 +4,7 @@ title:  "Research talk: Simons Foundation Postdoc Seminar Series"
 date:   2019-01-15 20:07:19
 categories: [TALK]
 comments: false
-image: /img/simonsbanner.png
+image: karschro.github.io/img/simonsbanner.png
 ---
 Coming up on January 15, 2019: Giving talk at Simons Foundation, at their SCGB (Simons Collaboration on the Global Brain) NY-area postdoc meeting. 
 
