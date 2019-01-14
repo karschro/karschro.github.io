@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Research talk at Simons Foundation"
+title:  "News item: Research talk at Simons Foundation"
 date:   2019-01-15 20:07:19
 categories: [LINK]
 comments: false
