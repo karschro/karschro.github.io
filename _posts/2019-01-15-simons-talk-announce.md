@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Research talk: Simons Foundation Postdoc Seminar Series"
+title:  "Simons Foundation Postdoc Seminar Series"
 date:   2019-01-15 20:07:19
 categories: [TALK]
 comments: false
