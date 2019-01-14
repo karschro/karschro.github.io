@@ -2,7 +2,7 @@
 layout: post
 title:  "Simons Foundation Postdoc Seminar Series"
 date:   2019-01-15 20:07:19
-categories: [TALK]
+categories: [TALK, feature photo]
 comments: false
 comments: false
 image:
