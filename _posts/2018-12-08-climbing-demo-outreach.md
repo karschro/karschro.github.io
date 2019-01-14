@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EMG/Climbing demo at Zuckerman Institute's Saturday Science"
-exerpt: "Our lab put on a great EMG demo inside the Steep Rock climbing gym..."
+excerpt: "Our lab put on a great EMG demo inside the Steep Rock climbing gym..."
 date:   2018-12-08 20:07:19
 categories: [OUTREACH & FUN]
 comments: false
@@ -15,7 +15,7 @@ The Zuckerman Institute does some great scientific programming for the public, i
 Our lab put on a great EMG demo inside the Steep Rock climbing gym (also located in our building!), showing a bunch of kids and parents how our brains control our muscles.
 <br>
 <br>
-Questions discussed:<br>
-How does the brain move your muscles? (Air? Strings? Electricity?) <br>
-Which of your muscles are 'pulling' muscles and which are 'pushing'? Which ones are stronger in humans? What kinds of animals have push vs. pull strength?<br>
-How can you conserve muscle energy while climbing the wall?
+Questions discussed:
+*How does the brain move your muscles? (Air? Strings? Electricity?) 
+*Which of your muscles are 'pulling' muscles and which are 'pushing'? Which ones are stronger in humans? What kinds of animals have push vs. pull strength?
+*How can you conserve muscle energy while climbing the wall?
