@@ -2,7 +2,7 @@
 layout: post
 title:  "The beginning"
 date:   2019-01-05 20:07:19
-categories: [PARAGRAPH]
+categories: [NEWS]
 comments: false
 ---
 Hello!
