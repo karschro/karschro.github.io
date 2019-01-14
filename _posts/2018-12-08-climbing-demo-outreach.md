@@ -2,7 +2,7 @@
 layout: post
 title:  "EMG/Climbing demo at Zuckerman Institute's Saturday Science"
 date:   2018-12-08 20:07:19
-categories: [OUTREACH]
+categories: [OUTREACH,feature photo]
 comments: false
 image:
   feature: karschro.github.io/img/climbingdemo.png
