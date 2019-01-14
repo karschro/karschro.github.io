@@ -2,10 +2,10 @@
 layout: post
 title:  "Outreach: EMG/Climbing demo at Zuckerman Institute's Saturday Science"
 date:   2018-12-08 20:07:19
-categories: [PARAGRAPH]
+categories: [OUTREACH]
 comments: false
 image:
-  feature: climbingdemo.png
+  feature: /img/climbingdemo.png
   credit: Eileen Barroso/Columbia University
 ---
 The Zuckerman Institute does some great scientific programming for the public, including working with <a href="https://zuckermaninstitute.columbia.edu/biobus"> BioBus </a>. Today was an event called Saturday Science, where the public is invited in for (typically) brain-related demos, games, and hands-on fun. 
