@@ -15,7 +15,8 @@ The Zuckerman Institute does some great scientific programming for the public, i
 Our lab put on a great EMG demo inside the Steep Rock climbing gym (also located in our building!), showing a bunch of kids and parents how our brains control our muscles.
 <br>
 <br>
-Questions discussed:
+Questions discussed:<br>
+<br>
 *How does the brain move your muscles? (Air? Strings? Electricity?) <br>
 *Which of your muscles are 'pulling' muscles and which are 'pushing'? Which ones are stronger in humans? What kinds of animals have push vs. pull strength?<br>
 *How can you conserve muscle energy while climbing the wall?<br>
