@@ -19,3 +19,5 @@ Questions discussed:
 *How does the brain move your muscles? (Air? Strings? Electricity?) 
 *Which of your muscles are 'pulling' muscles and which are 'pushing'? Which ones are stronger in humans? What kinds of animals have push vs. pull strength?
 *How can you conserve muscle energy while climbing the wall?
+
+We listened to muscle activity on speakers, and observed it on a scope!
