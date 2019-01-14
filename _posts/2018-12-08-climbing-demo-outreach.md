@@ -16,4 +16,6 @@ Our lab put on a great EMG demo inside the Steep Rock climbing gym (also located
 <br>
 <br>
 Questions discussed:<br>
-How 
+How does the brain move your muscles? (Air? Strings? Electricity?) <br>
+Which of your muscles are 'pulling' muscles and which are 'pushing'? Which ones are stronger in humans? What kinds of animals have push vs. pull strength?<br>
+How can you conserve muscle energy while climbing the wall?
