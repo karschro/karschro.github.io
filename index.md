@@ -2,9 +2,10 @@
 layout: default
 permalink: /
 ---
-<figure class="half">
-	<img src="SFN.jpg">
-	<img src="woodshole.jpg">
+<figure class="third">
+	<img src="karschro.github.io/images/SFN.jpg ">
+	<img src="karschro.github.io/images/SFN.jpg ">
+	<img src="karschro.github.io/images/SFN.jpg ">
 </figure>
 
 Hello!
