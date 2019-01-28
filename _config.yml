@@ -62,3 +62,6 @@ exclude:
   - package.json
   - spec
   - tmp
+
+# Google Analytics
+google_analytics: UA-131843004-1
