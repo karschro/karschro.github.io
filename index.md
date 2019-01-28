@@ -1,6 +1,7 @@
 ---
 layout: article
 permalink: /
+page.share=false
 ---
 <figure class="third">
 	<img src="karschro.github.io/images/SFN.jpg ">
