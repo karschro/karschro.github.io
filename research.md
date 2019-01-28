@@ -3,18 +3,8 @@ layout: default
 title:  Research projects
 permalink: /research/
 ---
-<img src="/img/SFN1.png">
-<br>
-Hello!
-<br>
-I am currently a postdoc in the <a href = "http://churchland.zuckermaninstitute.columbia.edu"> Churchland Lab </a> at the Zuckerman Mind, Brain and Behavior Institute at Columbia University. My research interests include brain-machine interfaces, computational and systems neuroscience, and machine learning. I completed my Ph.D. in Biomedical Engineering at the University of Michigan, supervised by <a href="https://chestekresearch.engin.umich.edu/"> Prof. Cindy Chestek</a>. Prior to that, I completed my BSE in Bioengineering at Duke University. 
-<br>
-<br>
-See my <a href="https://scholar.google.com/citations?user=42aZ0fAAAAAJ&hl=en"> Google Scholar Page </a> for a full list of publications, or keep reading for a brief summary of my work.
 
-<br>
-<br>
-<h2>Current Work</h2>
+<h3>Current Work</h3>
 <br>
 My research is currently focused on the development of brain-computer interfaces and the understanding of how our
 brains plan and control movements. I develop machine learning and other statistical techniques to use neural
@@ -34,7 +24,7 @@ control, exoskeletons, and other prosthetic devices. This work is not yet publis
 <br>
 <br>
 <br>
-<h2>Doctoral Work</h2>
+<h3>Doctoral Work</h3>
 <br>
 My thesis work explored tactile sensory representation in primary motor cortex (M1) and its relevance to the refinement of upper limb brain-machine interfaces (BMIs). The loss of hand function is a debilitating experience to those with limb loss and paralysis, but BMIs hold the potential to restore naturalistic function by obtaining prosthetic control signals directly from the brain. Generally speaking, BMI performance lags behind prosthetic hardware. This is due in part to incomplete scientific understanding of how motor cortex processes and uses sensory information. 
 <br>
