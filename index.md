@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 permalink: /
 ---
 <figure class="third">
