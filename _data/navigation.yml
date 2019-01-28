@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
+- title: Research
+  url: /research/
+  excerpt:
+  image:
+  
+  - title: Blog
+  url: /blog/
+  excerpt:
+  image:
+  
+  - title: CV
+  url: /cv/
+  excerpt:
+  image:
+  
+  - title:
   url:
   excerpt:
   image:
