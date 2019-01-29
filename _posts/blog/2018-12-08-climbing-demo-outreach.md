@@ -2,11 +2,10 @@
 layout: article
 title:  "EMG/Climbing demo at Zuckerman Institute's Saturday Science"
 excerpt: "Our lab put on a great EMG demo inside the Steep Rock climbing gym..."
-categories: blog
+categories: {{blog}}
 share: false
 image:
-  /*teaser: 400x250.gif*/
-  feature: "karschro.github.io/images/climbingdemo.png"
+  feature: https://karschro.github.io/images/climbingdemo.png
   credit: Eileen Barroso/Columbia University #name of the person or site you want to credit
 ---
 
