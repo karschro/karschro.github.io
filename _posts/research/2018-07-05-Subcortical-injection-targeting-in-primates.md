@@ -5,7 +5,7 @@ excerpt: "The ability to target subcortical structures in NHP has been hampered 
 categories: research
 share: false
 image:
-  thumbnail: targeting_thumb.png
+  teaser: targeting_thumb.png
   
 ---
 
