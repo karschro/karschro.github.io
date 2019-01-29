@@ -3,7 +3,7 @@ layout: post
 title:  "EMG/Climbing demo at Zuckerman Institute's Saturday Science"
 excerpt: "Our lab put on a great EMG demo inside the Steep Rock climbing gym..."
 date:   2018-12-08 20:07:19
-categories: [OUTREACH & FUN]
+category: blogpost
 comments: false
 image:
   feature: climbingdemo.png
