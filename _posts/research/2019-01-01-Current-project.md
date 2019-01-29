@@ -10,4 +10,8 @@ image:
 ---
 
 I am currently working with graduate student Sean Perkins on a novel locomotion prosthesis system, with applications to wheelchair
-control, exoskeletons, and other prosthetic devices. This work is not yet published, so stay tuned.
+control, exoskeletons, and other prosthetic devices. 
+
+<img src="https://karschro.github.io/images/pedal_thumb.png" class="image-right"> 
+
+This work is not yet published, so stay tuned.
