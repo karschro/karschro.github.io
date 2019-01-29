@@ -23,15 +23,15 @@ $border-radius               	: 3px;
 
 $white                        : #fff;
 $black                        : #000;
-$body-color                  	: #009999;
+$body-color                  	: #1c9099; /*teal */
 
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: #0066ff;
-$comp-color                  	: complement($base-color);
+$base-color                  	: #016c59; /*green */
+$comp-color                  	: #67a9cf; /*medium blue*/
 $border-color                	: #ddd;
-$link-color                  	: #6600ff;
+$link-color                  	: #016c59;/*green */
 
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
