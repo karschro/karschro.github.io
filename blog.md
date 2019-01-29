@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 <div class="tiles">
-{% for post in site.categories.blog %}
+{% for post in site.categories.post %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
