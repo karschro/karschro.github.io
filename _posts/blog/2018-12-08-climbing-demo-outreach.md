@@ -6,7 +6,7 @@ categories: blog
 share: false
 image:
   /*teaser: 400x250.gif*/
-  feature: "karschro.github.io/images/climbingdemo.jpg"
+  feature: "karschro.github.io/images/climbingdemo.png"
   credit: Eileen Barroso/Columbia University #name of the person or site you want to credit
 ---
 
