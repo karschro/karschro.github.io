@@ -6,7 +6,7 @@ categories: blog
 share: false
 image:
   /*teaser: 400x250.gif*/
-  feature: climbingdemo.jpg
+  feature: "karschro.github.io/images/climbingdemo.jpg"
   credit: Eileen Barroso/Columbia University #name of the person or site you want to credit
 ---
 
@@ -16,9 +16,11 @@ Our lab put on a great EMG demo inside the Steep Rock climbing gym (also located
 
 Questions discussed:
 
-*How does the brain move your muscles? (Air? Strings? Electricity?)
-*Which of your muscles are 'pulling' muscles and which are 'pushing'? Which ones are stronger in humans? What kinds of animals have push vs. pull strength?
-*How can you conserve muscle energy while climbing the wall?
+**How does the brain move your muscles? (Air? Strings? Electricity?)
+
+**Which of your muscles are 'pulling' muscles and which are 'pushing'? Which ones are stronger in humans? What kinds of animals have push vs. pull strength?
+
+**How can you conserve muscle energy while climbing the wall?
 
 
 We listened to muscle activity on speakers, and observed it on a scope!
