@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Subcortical surgical targeting"
-excerpt: "The ability to target subcortical structures in NHP has been hampered by lack of a straightforward approach"
+excerpt: "The ability to target subcortical structures in NHP has been hampered by lack of a straightforward approach."
 categories: research
 share: false
 image:
