@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Current project: locomotion BMI driven by cortical dynamics"
-excerpt: "A novel locomotion prosthesis system"
+excerpt: "A novel locomotion prosthesis system."
 categories: research
 share: false
 image:
