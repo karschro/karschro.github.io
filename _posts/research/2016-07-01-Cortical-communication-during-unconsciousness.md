@@ -14,8 +14,7 @@ The neural mechanisms of anesthetic-induced unconsciousness have yet to be fully
 <h4> Most important result</h4>
 
 <figure class="half">
-	<img src= ketamine_thumb.png>
-  <float:right>
+	<img src="https://karschro.github.io/images/ketamine_thumb.png">
 	<figcaption>Caption</figcaption>
 </figure>
 
