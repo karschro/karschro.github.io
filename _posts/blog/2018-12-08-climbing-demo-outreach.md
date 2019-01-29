@@ -5,6 +5,7 @@ excerpt: "Our lab put on a great EMG demo inside the Steep Rock climbing gym..."
 categories: blog
 share: false
 image:
+  teaser: climbingdemo_thumb.png
   feature: climbingdemo.png
   credit: Eileen Barroso/Columbia University
   
