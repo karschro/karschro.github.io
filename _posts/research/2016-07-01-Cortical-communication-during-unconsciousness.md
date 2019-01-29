@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Disruption of corticocortical information transfer during ketamine anesthesia in the primate brain"
-excerpt: "We demonstrate that information transfer between structurally connected cortical regions is disrupted during ketamine anesthesia"
+excerpt: "We demonstrate that information transfer between structurally connected cortical regions is disrupted during ketamine anesthesia."
 categories: research
 share: false
 image:
