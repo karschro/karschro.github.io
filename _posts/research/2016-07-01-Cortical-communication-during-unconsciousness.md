@@ -11,7 +11,13 @@ image:
 
 The neural mechanisms of anesthetic-induced unconsciousness have yet to be fully elucidated, in part because of the diverse molecular targets of anesthetic agents. We demonstrate, using intracortical recordings in macaque monkeys, that information transfer between structurally connected cortical regions is disrupted during ketamine anesthesia, despite preserved primary sensory representation. 
 
-<h3> Most important result</h3>
+<h4> Most important result</h4>
+
+<figure class="half">
+	<img src= ketamine_thumb.png>
+  <float:right>
+	<figcaption>Caption</figcaption>
+</figure>
 
 
 This is the first demonstration of a general anesthetic disrupting corticocortical information transfer in the primate brain on the level of single neurons!
