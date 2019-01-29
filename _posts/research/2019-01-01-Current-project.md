@@ -5,7 +5,7 @@ excerpt: "A novel locomotion prosthesis system"
 categories: research
 share: false
 image:
-  thumbnail: pedal_thumb.png
+  teaser: pedal_thumb.png
   
 ---
 
