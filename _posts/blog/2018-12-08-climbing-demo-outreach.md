@@ -2,7 +2,7 @@
 layout: article
 title:  "EMG/Climbing demo at Zuckerman Institute's Saturday Science"
 excerpt: "Our lab put on a great EMG demo inside the Steep Rock climbing gym..."
-categories: {{blog}}
+categories: blog
 share: false
 image:
   feature: climbingdemo.png
