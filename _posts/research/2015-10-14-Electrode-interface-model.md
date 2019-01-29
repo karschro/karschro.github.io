@@ -11,7 +11,7 @@ image:
 A finite-element model of a Utah array microelectrode in neural tissue was coupled with a multi-compartmental model of a neuron to quantify the effects of encapsulation thickness, encapsulation resistivity, and interface resistivity on electrode impedance and waveform amplitude. The coupled model was then reconciled with the in vivo data.
 
 <h4> Most important result</h4>
-<img src="https://karschro.github.io/images/sensorypaper_thumb.png" class="image-right">
+<img src="https://karschro.github.io/images/impedance_thumb.png" class="image-right">
 
 In the model, glial scarring could not match the in vivo data. However, a thin interface layer at the electrode tip could. Despite having a large effect on impedance, interface resistivity did not have a noticeable effect on amplitude. 
 
