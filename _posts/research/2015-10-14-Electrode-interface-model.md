@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Electrode/tissue interface model"
-excerpt: "The first demonstration of brain control of finger-level fine motor skills."
+excerpt: "Chronic electrode array performance is not appreciably determined by tissue scarring."
 categories: research
 share: false
 image:
