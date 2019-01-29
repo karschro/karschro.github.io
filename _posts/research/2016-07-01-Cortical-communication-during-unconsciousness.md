@@ -14,6 +14,8 @@ The neural mechanisms of anesthetic-induced unconsciousness have yet to be fully
 <h4> Most important result</h4>
 <img src="https://karschro.github.io/images/ketamine_thumb.png" class="image-right"> 
 
-We showed that corticocortical communication between sensory cortex (S1) and M1 is selectively interrupted during anesthesia, while thalamocortical communication is preserved. The data suggest that M1/S1 communication is important for conscious perception of sensory inputs, highlighting potential problems with incomplete control signals in open-loop BMI. Additionally, this work was a significant contribution to the study of anesthetic mechanisms, being the first to show a breakdown in cortical communication at the single neuron level.
+We showed that corticocortical communication between sensory cortex (S1) and M1 is selectively interrupted during anesthesia, while thalamocortical communication is preserved. The data suggest that M1/S1 communication is important for conscious perception of sensory inputs, highlighting potential problems with incomplete control signals in open-loop BMI. 
+
+Additionally, this work was a significant contribution to the study of anesthetic mechanisms, being the first to show a breakdown in cortical communication at the single neuron level.
 
 <a class="btn-info" href="https://www.sciencedirect.com/science/article/pii/S1053811916300799">Go to the paper</a>
