@@ -16,5 +16,5 @@ Many current neuroscience studies in large animal models have focused on recordi
 
 We developed a method of subcortical targeting in NHP that uses MRI-compatible titanium screws as fiducials. The in vivo study used a cellular marker for histologic confirmation of accuracy.
 
-<a class="btn-info" href="https://www.sciencedirect.com/science/article/pii/S0165027018301389">Go to the paper</a>
+<a class="btn-info" href="https://www.sciencedirect.com/science/article/pii/S0165027018301389">Go to the paper: Bentley JN et al.</a>
 
