@@ -1,8 +1,9 @@
 ---
-layout: Archive
-title:  Blog
+layout: archive
+title:  What's new
 permalink: /blog/
 ---
+
 <div class="tiles">
 {% for post in site.categories.blog %}
   {% include post-grid.html %}
