@@ -2,7 +2,7 @@
 layout: post
 title:  "EMG/Climbing demo at Zuckerman Institute's Saturday Science"
 excerpt: "Our lab put on a great EMG demo inside the Steep Rock climbing gym..."
-category: blogpost
+category: blog
 ---
 The Zuckerman Institute does some great scientific programming for the public, including in collaboration with <a href="https://zuckermaninstitute.columbia.edu/biobus"> BioBus</a>. Today there was a 'Saturday Science' event, where the public is invited in for (typically) brain-related demos, games, and hands-on fun. 
 
