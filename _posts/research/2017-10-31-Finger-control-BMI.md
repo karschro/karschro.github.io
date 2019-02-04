@@ -8,7 +8,7 @@ image:
   teaser: fingercontrol_thumb.png
   
 ---
-Previous BMI studies have primarily focused on predicting and controlling whole-arm movements. Here, we investigated the continuous decoding of precise finger movements in rhesus macaques. Approach. In order to elicit precise and repeatable finger movements, we have developed a nov
+Previous BMI studies have primarily focused on predicting and controlling whole-arm movements. Here, we investigated the continuous decoding of precise finger movements in rhesus macaques using a novel task in which they are required to bend the fingers according to a visual cue.
 
 <h4> Most important result</h4>
 <img src="https://karschro.github.io/images/fingercontrol_thumb.png" class="image-right"> 
