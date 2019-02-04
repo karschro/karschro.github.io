@@ -14,7 +14,7 @@ The neural mechanisms of anesthetic-induced unconsciousness have yet to be fully
 <h4> Most important result</h4>
 <figure  class="image-right">
   <img src="https://karschro.github.io/images/ketamine_thumb.png"> 
-  <imgcaption>(Top row) Sensory input could be decoded from M1 before and after, but not during, anesthesia. (Bottom row) However, the input can always be decoded from S1. This demonstrates the breakdown in cortical communication.</imgcaption>
+  <figcaption>(Top row) Sensory input could be decoded from M1 before and after, but not during, anesthesia. (Bottom row) However, the input can always be decoded from S1. This demonstrates the breakdown in cortical communication.</figcaption>
 </figure>
 We showed that corticocortical communication between sensory cortex (S1) and M1 is selectively interrupted during anesthesia, while thalamocortical communication is preserved. The data suggest that M1/S1 communication is important for conscious perception of sensory inputs, highlighting potential problems with incomplete control signals in open-loop BMI. 
 
