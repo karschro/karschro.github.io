@@ -11,7 +11,9 @@ image:
 Previous BMI studies have primarily focused on predicting and controlling whole-arm movements. Here, we investigated the continuous decoding of precise finger movements in rhesus macaques using a novel task in which they are required to bend the fingers according to a visual cue.
 
 <h4> Most important result</h4>
-<img src="https://karschro.github.io/images/fingercontrol_thumb.png" class="image-right"> 
+<figure  class="image-right">
+  <img src="https://karschro.github.io/images/fingercontrol_thumb.png"> 
+  <imgcaption>example online decoding of finger position over several trials. Successfully acquired targets highlighted in green.</imgcaption>
 Compared to physical control, neural control performance was slightly degraded; however, the monkeys were still able to successfully perform the task with an average target acquisition rate of 83.1%. 
 
 This is, to our knowledge, the first demonstration of brain control of finger-level fine motor skills. We believe that these results represent an important step towards full and dexterous control of neural prosthetic devices.
