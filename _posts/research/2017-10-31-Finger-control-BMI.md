@@ -13,7 +13,7 @@ Previous BMI studies have primarily focused on predicting and controlling whole-
 <h4> Most important result</h4>
 <figure  class="image-right">
 <img src="https://karschro.github.io/images/fingercontrol_thumb.png"> 
-  <imgcaption>Example online decoding of finger position over several trials. Successfully acquired targets highlighted in green.</imgcaption>
+  <figcaption>Example online decoding of finger position over several trials. Successfully acquired targets highlighted in green.</figcaption>
 </figure>
 Compared to physical control, neural control performance was slightly degraded; however, the monkeys were still able to successfully perform the task with an average target acquisition rate of 83.1%. 
 
