@@ -8,13 +8,13 @@ image:
   teaser: impedance_thumb.png
   
 ---
-A finite-element model of a Utah array microelectrode in neural tissue was coupled with a multi-compartmental model of a neuron to quantify the effects of encapsulation thickness, encapsulation resistivity, and interface resistivity on electrode impedance and waveform amplitude. The coupled model was then reconciled with the in vivo data.
+A finite-element model of a Utah array microelectrode in neural tissue was coupled with a multi-compartmental model of a neuron to quantify the effects of encapsulation thickness, encapsulation resistivity, and interface resistivity on electrode impedance and waveform amplitude. The coupled model was then reconciled with in vivo data.
 
 <h4> Most important result</h4>
   <img src="https://karschro.github.io/images/impedance_thumb.png" class="image-right">
 
 
-In the model, glial scarring could not match the in vivo data. However, a thin interface layer at the electrode tip could. Despite having a large effect on impedance, interface resistivity did not have a noticeable effect on amplitude. 
+In the model, the simulated effects of glial scarring on signal quality could not properly match the in vivo data. However, a thin interface layer at the electrode tip could. Despite having a large effect on impedance, interface resistivity did not have a noticeable effect on amplitude. 
 
 This study suggests that scarring does not cause an electrical problem with regard to signal quality since it does not appear to be the main contributor to increasing impedance or significantly affect amplitude unless it displaces neurons. This, in turn, suggests that neural signals can be obtained reliably despite scarring as long as the recording site has sufficiently low impedance after accumulating a thin layer of biofouling. Therefore, advancements in microelectrode technology may be expedited by focusing on improvements to the recording site-tissue interface rather than elimination of the glial scar.
 
