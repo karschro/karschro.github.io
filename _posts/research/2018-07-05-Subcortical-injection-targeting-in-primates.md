@@ -13,7 +13,7 @@ Many current neuroscience studies in large animal models have focused on recordi
 
 <h4> Most important result</h4>
 <figure class="image-right">
-  <img src="https://karschro.github.io/images/targeting_thumb.png"> 
+<img src="https://karschro.github.io/images/targeting_thumb.png"> 
   <imgcaption>Injections were successfully targeted to substantia nigra (pictured) and hippocampus.</imgcaption>
 </figure>
 We developed a method of subcortical targeting in NHP that uses MRI-compatible titanium screws as fiducials. The in vivo study used a cellular marker for histologic confirmation of accuracy.
