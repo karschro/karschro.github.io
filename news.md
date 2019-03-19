@@ -6,7 +6,7 @@ permalink: /news/
 ---
 <h4> 2019 </h4>
 
-- I wrote a news piece for the Simons Foundation Collaboration on the Global Brain (SCGB) News. <a href="https://www.simonsfoundation.org/2019/03/19/multitasking-neural-networks-balance-specialization-with-flexibility/"> Multitasking Neural Networks Balance Specialization With Flexibility. </a> 
+- I summarized a fascinating paper on task representations in neural networks (Yang et al 2019) for the Simons Foundation Collaboration on the Global Brain (SCGB) News. <a href="https://www.simonsfoundation.org/2019/03/19/multitasking-neural-networks-balance-specialization-with-flexibility/"> Multitasking Neural Networks Balance Specialization With Flexibility. </a> 
 
 - Columbia Magazine covered our lab's EMG + rock climbing demo, and managed to catch me in the photo-op! <a href="https://magazine.columbia.edu/article/climbing-neuroscientist"> The Climbing Neuroscientist. </a>
 
