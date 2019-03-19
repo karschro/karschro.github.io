@@ -10,4 +10,10 @@ I wrote a news piece for the Simons Foundation News. <a href="https://www.simons
 
 Columbia Magazine covered our EMG / rock climbing demo! Read <a href="https://magazine.columbia.edu/article/climbing-neuroscientist"> The Climbing Neuroscientist </a>.
 
+I presented a poster at COSYNE 2019 in Lisbon, Portugal. 
+
 <h4> 2018 </h4>
+
+I spoke at the <a href="https://www.simonsfoundation.org/event/scgb-ny-area-postdoc-meeting/"> Simons Foundation NY-area postdoc meeting </a>.
+
+This website was created. Hello.
