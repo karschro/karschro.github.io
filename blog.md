@@ -1,11 +1,7 @@
 ---
-layout: archive
+layout: article
 title:  What's new
-permalink: /blog/
----
+permalink: /news/
 
-<div class="tiles">
-{% for post in site.categories.blog %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+---
+Columbia Magazine covered our EMG / rock climbing demo 
