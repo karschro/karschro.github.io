@@ -6,15 +6,15 @@ permalink: /news/
 ---
 <h4> 2019 </h4>
 
-- I wrote a news piece for the Simons Foundation News. <a href="https://www.simonsfoundation.org/2019/03/19/multitasking-neural-networks-balance-specialization-with-flexibility/"> Multitasking Neural Networks Balance Specialization With Flexibility. </a> 
+- I wrote a news piece for the Simons Foundation Collaboration on the Global Brain (SCGB) News. <a href="https://www.simonsfoundation.org/2019/03/19/multitasking-neural-networks-balance-specialization-with-flexibility/"> Multitasking Neural Networks Balance Specialization With Flexibility. </a> 
 
-- Columbia Magazine covered our EMG / rock climbing demo! Read <a href="https://magazine.columbia.edu/article/climbing-neuroscientist"> The Climbing Neuroscientist. </a>
+- Columbia Magazine covered our lab's EMG + rock climbing demo, and managed to catch me in the photo-op! <a href="https://magazine.columbia.edu/article/climbing-neuroscientist"> The Climbing Neuroscientist. </a>
 
-- I presented a poster at COSYNE 2019 in Lisbon, Portugal. "A brain-machine interface for locomotion driven by subspace dynamics."
+- I survived a tricky round of peer-review and was able to present a poster at COSYNE 2019 in Lisbon, titled "A brain-machine interface for locomotion driven by subspace dynamics."
 
 - I spoke at the <a href="https://www.simonsfoundation.org/event/scgb-ny-area-postdoc-meeting/"> Simons Foundation NY-area postdoc meeting </a>.
 
 <h4> 2018 </h4>
 
-- This website was created. Welcome.
+- I created this website and <a href="https://twitter.com/schroeder_ke"> this Twitter account</a>. Hello everybody.
 
