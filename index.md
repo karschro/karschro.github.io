@@ -5,9 +5,9 @@ permalink: /
 
 <h5>Postdoc neuroscientist and engineer</h5>
 I am currently a postdoctoral research scientist in the <a href = "http://churchland.zuckermaninstitute.columbia.edu"> Churchland Lab </a> at the Zuckerman Mind, Brain and Behavior Institute at Columbia University. 
-<figure class="wrap">
-  <img src="karschro.github.io/images/japan.jpg" align="right" width="400" height="250"> 
-</figure>
+<image class="wrap">
+  <img src="karschro.github.io/images/japan.jpg" align="right" width="320" height="200"> 
+</image>
 
 My work is currently focused on cortical brain-machine interfaces, specifically the following: How can we leverage the statistical structure in cortical activity to build neural interfaces with higher performance and reliability? I am also interested in related topics in systems neuroscience, machine learning, and neural engineering. 
 
