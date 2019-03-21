@@ -2,9 +2,6 @@
 layout: article
 title:  What I'm up to
 permalink: /news/
-image:
-  feature: SFN1.png
-  credit: Society for Neuroscience
 ---
 <h4> 2019 </h4>
 
