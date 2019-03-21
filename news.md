@@ -1,8 +1,10 @@
 ---
 layout: article
-title:  What I'm up to
+title:
 permalink: /news/
 ---
+<h3> What I'm up to </h3>
+
 <h4> 2019 </h4>
 
 - I summarized a fascinating paper on task representations in neural networks (Yang et al 2019) for the Simons Foundation Collaboration on the Global Brain. 
