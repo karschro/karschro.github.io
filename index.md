@@ -4,7 +4,7 @@ permalink: /
 ---
 <h5>Postdoc neuroscientist and engineer</h5>
 <image class="wrap">
-  <img src="karschro.github.io/images/japan.jpg" align="right" width="320" height="200"> 
+  <img src="karschro.github.io/images/japan.jpg" align="right" width="320" height="200" hspace=50 vspace=50> 
 </image>
 I am a postdoctoral research scientist in the <a href = "http://churchland.zuckermaninstitute.columbia.edu"> Churchland Lab </a> at the Zuckerman Mind, Brain and Behavior Institute at Columbia University. 
 
