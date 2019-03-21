@@ -2,13 +2,12 @@
 layout: article
 permalink: /
 ---
-<figure class="third">
-	<img src="karschro.github.io/images/SFN.jpg ">
-	<img src="karschro.github.io/images/japan.jpg ">
-	<img src="karschro.github.io/images/woodshole.jpg ">
-</figure>
 
 <h5>Postdoc neuroscientist and engineer</h5>
+
+<figure  class="image-right">
+  <img src="karschro.github.io/images/woodshole.jpg "> 
+</figure>
 
 I am currently a postdoctoral research scientist in the <a href = "http://churchland.zuckermaninstitute.columbia.edu"> Churchland Lab </a> at the Zuckerman Mind, Brain and Behavior Institute at Columbia University. 
 
