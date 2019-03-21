@@ -5,8 +5,8 @@ permalink: /
 
 <h5>Postdoc neuroscientist and engineer</h5>
 
-<figure class="image-right">
-  <img src="karschro.github.io/images/japan.jpg" align="right"> 
+<figure class="float:right">
+  <img src="karschro.github.io/images/japan.jpg" align="right" width="400" height="250"> 
   <figcaption>...</figcaption>
 </figure>
 
