@@ -7,7 +7,7 @@ permalink: /
 
 <figure class="image-right">
   <img src="karschro.github.io/images/japan.jpg" align="right"> 
-  figcaption>...</figcaption>
+  <figcaption>...</figcaption>
 </figure>
 
 I am currently a postdoctoral research scientist in the <a href = "http://churchland.zuckermaninstitute.columbia.edu"> Churchland Lab </a> at the Zuckerman Mind, Brain and Behavior Institute at Columbia University. 
