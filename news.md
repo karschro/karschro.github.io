@@ -15,9 +15,9 @@ permalink: /news/
 - Columbia Magazine covered our lab's EMG + rock climbing demo, and managed to catch me in the photo-op! 
 <a href="https://magazine.columbia.edu/article/climbing-neuroscientist"> "The Climbing Neuroscientist." </a>
 
-- I survived a tricky round of peer-review and was able to present a poster at COSYNE 2019 in Lisbon, titled "A brain-machine interface for locomotion driven by subspace dynamics." (Mar)
+- I presented a poster at COSYNE 2019 in Lisbon, titled "A brain-machine interface for locomotion driven by subspace dynamics." (Mar)
 
-- I spoke at the <a href="https://www.simonsfoundation.org/event/scgb-ny-area-postdoc-meeting/"> Simons Foundation NY-area postdoc meeting (Jan) </a>.
+- I spoke at the <a href="https://www.simonsfoundation.org/event/scgb-ny-area-postdoc-meeting/"> Simons Foundation NY-area postdoc meeting </a> (Jan).
 
 <h4> 2018 </h4>
 
