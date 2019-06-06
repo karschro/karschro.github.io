@@ -33,7 +33,15 @@ Additionally, this work was a significant contribution to the study of anestheti
 
 Irwin, Z.T., Schroeder, K.E., Vu P.P., et al. <b>Chronic recording of hand prosthesis control signals via a regenerative peripheral nerve interface in a rhesus macaque.</b><a href="https://iopscience.iop.org/article/10.1088/1741-2560/13/4/046007/meta"> Journal of Neural Engineering</a>
 
+Schroeder, K.E., and Chestek, C.A. <b>Intracortical brain-machine interfaces advance sensorimotor neuroscience. </b><a href="https://www.frontiersin.org/articles/10.3389/fnins.2016.00291"> Frontiers</a>
+
+A review article.
+
 <h4> 2015 </h4>
 Malaga, K.A., Schroeder, K.E., et al. <b>Data-driven model comparing the effects of glial scarring and interface interactions on chronic neural recordings in non-human primates.</b><a href="https://iopscience.iop.org/article/10.1088/1741-2560/13/1/016010/meta#jneaa082as3"> Journal of Neural Engineering</a>
 
 A finite-element model of a Utah array microelectrode in neural tissue was coupled with a multi-compartmental model of a neuron to quantify the effects of encapsulation thickness, encapsulation resistivity, and interface resistivity on electrode impedance and waveform amplitude. The coupled model was then reconciled with in vivo data. This study suggests that scarring does not cause an electrical problem with regard to signal quality since it does not appear to be the main contributor to increasing impedance or significantly affect amplitude unless it displaces neurons. This, in turn, suggests that neural signals can be obtained reliably despite scarring as long as the recording site has sufficiently low impedance after accumulating a thin layer of biofouling. Therefore, advancements in microelectrode technology may be expedited by focusing on improvements to the recording site-tissue interface rather than elimination of the glial scar.
+
+Malaga, K.A., Schroeder, K.E., et al. <b>Data-driven model comparing the effects of glial scarring and interface interactions on chronic neural recordings in non-human primates.</b><a href="https://iopscience.iop.org/article/10.1088/1741-2560/13/1/016010/meta#jneaa082as3"> Journal of Neural Engineering</a>
+
+Irwin, Z., Thompson, D., Schroeder, K., et al. <b>Enabling Low-power, Multi-modal Neural Interfaces through a Common, Low-bandwidth Feature Space.</b> <a href="https://ieeexplore.ieee.org/abstract/document/7332964/"> IEEE TNSRE</a>
