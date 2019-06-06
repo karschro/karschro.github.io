@@ -7,7 +7,7 @@ permalink: /news/
 
 <h4> 2019 </h4>
 
-- I was selected for a postdoctoral fellowship from the Grossman Center for the Statistics of Mind here at Columbia. <a href="http://grossmancenter.columbia.edu/"> "More about the Grossman Center" </a>
+- I was awarded a postdoctoral fellowship from the <a href="http://grossmancenter.columbia.edu/">Grossman Center</a> for the Statistics of Mind here at Columbia. 
 
 - Graduate student Sean Perkins presented our work at Neural Control of Movement in Japan.
 
