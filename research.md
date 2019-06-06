@@ -20,6 +20,8 @@ Schroeder, K.E., Irwin, Z.T., Bullard, A.J., et al. <b> Robust tactile sensory r
 
 We quantified tactile sensory responses within the same M1 cortical populations used for motor BMI control, showing that M1 neurons are tuned to specific tactile fingertip inputs in both nonhuman primates and humans. These findings help to explain challenges encountered by state-of-the-art decoders and suggest avenues for improvement.
 
+*
+
 Irwin, Z.T., Schroeder, K.E., Vu P.P., et al. <b>Neural control of finger movement via intracortical brain–machine interface.</b><a href="https://iopscience.iop.org/article/10.1088/1741-2552/aa80bd/meta"> Journal of Neural Engineering</a>
 
 Previous BMI studies have primarily focused on predicting and controlling whole-arm movements. Here, we investigated the continuous decoding of precise finger movements in rhesus macaques using a novel task in which they are required to bend the fingers according to a visual cue.
@@ -31,7 +33,11 @@ We showed that corticocortical communication between sensory cortex (S1) and M1 
 
 Additionally, this work was a significant contribution to the study of anesthetic mechanisms, being the first to show a breakdown in cortical communication at the single neuron level.
 
+*
+
 Irwin, Z.T., Schroeder, K.E., Vu P.P., et al. <b>Chronic recording of hand prosthesis control signals via a regenerative peripheral nerve interface in a rhesus macaque.</b><a href="https://iopscience.iop.org/article/10.1088/1741-2560/13/4/046007/meta"> Journal of Neural Engineering</a>
+
+*
 
 Schroeder, K.E., and Chestek, C.A. <b>Intracortical brain-machine interfaces advance sensorimotor neuroscience. </b><a href="https://www.frontiersin.org/articles/10.3389/fnins.2016.00291"> Frontiers</a>
 
@@ -42,6 +48,8 @@ Malaga, K.A., Schroeder, K.E., et al. <b>Data-driven model comparing the effects
 
 A finite-element model of a Utah array microelectrode in neural tissue was coupled with a multi-compartmental model of a neuron to quantify the effects of encapsulation thickness, encapsulation resistivity, and interface resistivity on electrode impedance and waveform amplitude. The coupled model was then reconciled with in vivo data. This study suggests that scarring does not cause an electrical problem with regard to signal quality since it does not appear to be the main contributor to increasing impedance or significantly affect amplitude unless it displaces neurons. This, in turn, suggests that neural signals can be obtained reliably despite scarring as long as the recording site has sufficiently low impedance after accumulating a thin layer of biofouling. Therefore, advancements in microelectrode technology may be expedited by focusing on improvements to the recording site-tissue interface rather than elimination of the glial scar.
 
-Malaga, K.A., Schroeder, K.E., et al. <b>Data-driven model comparing the effects of glial scarring and interface interactions on chronic neural recordings in non-human primates.</b><a href="https://iopscience.iop.org/article/10.1088/1741-2560/13/1/016010/meta#jneaa082as3"> Journal of Neural Engineering</a>
+*
 
 Irwin, Z., Thompson, D., Schroeder, K., et al. <b>Enabling Low-power, Multi-modal Neural Interfaces through a Common, Low-bandwidth Feature Space.</b> <a href="https://ieeexplore.ieee.org/abstract/document/7332964/"> IEEE TNSRE</a>
+
+*
