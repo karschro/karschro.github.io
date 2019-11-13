@@ -3,7 +3,7 @@ layout: article
 title:
 permalink: /research/
 image: 
-  feature: SFN.png
+  feature: SFN1.png
 ---
 
 <h4> 2019 </h4>
