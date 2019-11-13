@@ -7,7 +7,9 @@ permalink: /research/
 <h4> 2019 </h4>
 I am currently working with graduate student Sean Perkins on a novel locomotion prosthesis system, with applications to wheelchair control, exoskeletons, and other prosthetic devices.
 
-Preprint coming very soon! <a href="SchroederCOSYNE2019.pdf" target="_blank">COSYNE poster on this project (opens new tab)</a>
+Preprint coming very soon! 
+
+For now, see the <a href="https://karschro.github.io/SchroederCOSYNE2019.pdf" target="_blank">COSYNE poster on this project</a> (opens new tab)
 
 
 <h4> 2018 </h4>
