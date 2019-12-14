@@ -9,9 +9,10 @@ image:
 <h4> 2019 </h4>
 I am currently working with graduate student Sean Perkins on a novel locomotion prosthesis system, with applications to wheelchair control, exoskeletons, and other prosthetic devices.
 
-Preprint coming very soon! 
+Abstract: 
+Brain-machine interfaces (BMIs) for reaching have enjoyed continued performance improvements. Yet there remains significant need for locomotor BMIs (e.g., for wheelchair control), which could potentially benefit a much larger patient population. Fewer studies have addressed this need, and the most effective approach remains undetermined. Here, we develop a locomotor BMI based on cortical activity as monkeys cycle a hand-held pedal to progress along a virtual track. Unlike most reach-based BMIs, we did not directly map neural states to commanded velocity or position. Instead, we leveraged features of the neural population response that were robust during rhythmic cycling. These included an overall shift in neural state when moving, and rotational trajectories with direction-specific paths. We used nonlinear means to infer kinematics from these features. Online BMI-control success rates approached those during manual control. Our results illustrate that different use-cases can require very different approaches to guiding a prosthetic via neural activity.
 
-For now, see the <a href="https://karschro.github.io/SchroederCOSYNE2019.pdf" target="_blank">COSYNE poster on this project</a> (opens new tab)
+<a href="https://www.biorxiv.org/content/10.1101/2019.12.13.862532v1" target="_blank">Read preprint on biorXiv</a>
 
 
 <h4> 2018 </h4>
