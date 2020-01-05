@@ -7,7 +7,7 @@ image:
 ---
 
 <h4> 2019 </h4>
-I am currently working with graduate student Sean Perkins on a novel locomotion prosthesis system, with applications to wheelchair control, exoskeletons, and other prosthetic devices.
+Latest work: We demonstrated excellent online BMI control of a cycling task using latent neural features. This novel approach has  applications in wheelchair control, exoskeletons, and other prosthetic devices.
 
 <a href="https://www.biorxiv.org/content/10.1101/2019.12.13.862532v1" target="_blank">Read preprint on biorXiv</a>
 
