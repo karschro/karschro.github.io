@@ -4,20 +4,19 @@ title:
 permalink: /about/
 ---
 
-I am a postdoctoral research scientist in the <a href = "http://churchland.zuckermaninstitute.columbia.edu"> Churchland Lab </a> at the Zuckerman Mind, Brain and Behavior Institute at Columbia University. 
+I am a postdoctoral research scientist in the <a href = "http://churchland.zuckermaninstitute.columbia.edu"> Churchland Lab </a> at the Zuckerman Mind, Brain and Behavior Institute at Columbia University.
 
 My work is currently focused on cortical brain-machine interfaces, specifically the following: How can we leverage the statistical structure in cortical activity to build neural interfaces with higher performance and reliability? I am also interested in related topics in systems neuroscience, machine learning, and neural engineering. 
-
 
 I completed my Ph.D. in Biomedical Engineering at the University of Michigan, supervised by <a href="https://chestekresearch.engin.umich.edu/"> Prof. Cindy Chestek</a>. Prior to that, I completed my BSE in Bioengineering at Duke University. 
 
 See my <a href="https://scholar.google.com/citations?user=42aZ0fAAAAAJ&hl=en"> Google Scholar Page </a> for a full list of publications.
 
+<br>
+<br>
 
 
-
-
-<h4> Most recent news: </h4>
+<h5> Most recent news: </h5>
 
 - I was awarded a postdoctoral fellowship from the <a href="http://grossmancenter.columbia.edu/">Grossman Center</a> for the Statistics of Mind here at Columbia. 
 
