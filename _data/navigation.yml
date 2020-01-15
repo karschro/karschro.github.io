@@ -1,10 +1,12 @@
 # Site navigation links
 
-- title: Research
+- title: about
+  url: /about/
+- title: research
   url: /research/
 - title: CV
   url: /CV/
-- title: News
-  url: /news/
+# - title: news
+#   url: /news/
   
 
