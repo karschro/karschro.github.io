@@ -2,6 +2,8 @@
 layout: article
 title:
 permalink: /about/
+image: 
+  feature: SFN1.png
 ---
 
 I am a postdoctoral research scientist in the <a href = "http://churchland.zuckermaninstitute.columbia.edu"> Churchland Lab </a> at the Zuckerman Mind, Brain and Behavior Institute at Columbia University.
