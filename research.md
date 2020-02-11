@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 <h4> 2019 </h4>
-Latest work: We demonstrated excellent online BMI control of a cycling task using latent neural features. This novel approach has  applications in wheelchair control, exoskeletons, and other prosthetic devices.
+Latest work: We demonstrated excellent online BMI control of a cycling task using latent neural features. This novel approach has broad implications for generalized online control across a broad range of movements.
 
 <a href="https://www.biorxiv.org/content/10.1101/2019.12.13.862532v1" target="_blank">Read preprint on biorXiv</a>
 
