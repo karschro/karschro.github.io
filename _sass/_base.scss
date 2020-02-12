@@ -113,7 +113,7 @@ li code {
 /* Figures and images */
 
 figure {
-  width:30%;
+  max-width: 50%;
   margin-right:0;
   // full width figures on small screens
   @include media($small) {
