@@ -201,6 +201,27 @@ svg:not(:root) {
   overflow: hidden;
 }
 
+
+floatrightfig {
+    max-width: 50%;
+    height: auto;
+    vertical-align: top;
+    float: right;
+    flex-flow: wrap;
+    border: 0;
+    // full width figures on small screens
+  @include media($small) {
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+}
+
+
+
+
+
+
+
 /*
    Tables
    ========================================================================== */
