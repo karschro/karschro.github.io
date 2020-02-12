@@ -113,8 +113,8 @@ li code {
 /* Figures and images */
 
 figure {
-  margin-left: -1 * $gutter;
-  margin-right: -1 * $gutter;
+  width:30%;
+  margin-right:0;
   // full width figures on small screens
   @include media($small) {
     margin-left: 0;
