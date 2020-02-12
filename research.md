@@ -6,15 +6,16 @@ permalink: /research/
   feature: SFN1.png -->
 ---
 
+<h4> Research focus </h4>
+I'm interested in pushing the capability of BMIs beyond reaching and grasping, toward systems that can reliably perform a variety of movements. My work uses novel computational methods both to develop neurotechnology, and add to our scientific understanding of the principles that underlie activity in motor cortex.
+
+
 <h4> 2019 </h4>
 Latest work: We demonstrated excellent online BMI control of a cycling task using latent neural features. This novel approach has broad implications for generalized online control across a broad range of movements.
 
-<a href="https://www.biorxiv.org/content/10.1101/2019.12.13.862532v1" target="_blank">Read preprint on biorXiv</a>
+Schroeder KE\*, Perkins SM\*, Wang Q, and Churchland MM. <b>Robust neural control of virtual locomotion enabled by a novel decoding strategy.</b> <a href="https://www.biorxiv.org/content/10.1101/2019.12.13.862532v1" target="_blank"><i>Read preprint on biorXiv</i></a>
 
 <b>Abstract: </b> Brain-machine interfaces (BMIs) for reaching have enjoyed continued performance improvements. Yet there remains significant need for locomotor BMIs (e.g., for wheelchair control), which could potentially benefit a much larger patient population. Fewer studies have addressed this need, and the most effective approach remains undetermined. Here, we develop a locomotor BMI based on cortical activity as monkeys cycle a hand-held pedal to progress along a virtual track. Unlike most reach-based BMIs, we did not directly map neural states to commanded velocity or position. Instead, we leveraged features of the neural population response that were robust during rhythmic cycling. These included an overall shift in neural state when moving, and rotational trajectories with direction-specific paths. We used nonlinear means to infer kinematics from these features. Online BMI-control success rates approached those during manual control. Our results illustrate that different use-cases can require very different approaches to guiding a prosthetic via neural activity.
-
-
-
 
 <h4> 2018 </h4>
 Bentley, J.N., Khalsa, S.S.S., Kobylarek, M., Schroeder, K.E., et al. <b>A simple, inexpensive method for subcortical stereotactic targeting in nonhuman primates.</b> <a href="https://www.sciencedirect.com/science/article/pii/S0165027018301389">J. Neuroscience Methods 305</a>
