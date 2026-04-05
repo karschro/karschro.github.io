@@ -5,10 +5,254 @@ search: false
 
 @charset "utf-8";
 
+// Custom variable overrides (before theme import)
+$global-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$header-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$caption-font-family: "Source Serif 4", Georgia, serif;
+
+$primary-color: #2a6b6b;
+$link-color: #2a6b6b;
+$link-color-hover: darken(#2a6b6b, 12%);
+$link-color-visited: #2a6b6b;
+$text-color: #2d2d2d;
+$footer-background-color: #fafafa;
+$doc-font-size: 14px;
+$doc-font-size-medium: 14px;
+$doc-font-size-large: 15px;
+$doc-font-size-x-large: 15px;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// ─── Masthead ───
 .masthead {
-    padding-top: 2em;
-    // padding-bottom: 2em;
+  padding-top: 1.5em;
+  border-bottom: none;
+  box-shadow: none;
+}
+
+.greedy-nav {
+  a.site-title {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: $text-color;
   }
+
+  .visible-links a {
+    font-weight: 500;
+    font-size: 0.85em;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #555;
+
+    &:hover {
+      color: $primary-color;
+    }
+
+    &::before {
+      background: $primary-color;
+    }
+  }
+}
+
+// ─── Author sidebar ───
+.author__name {
+  font-weight: 600;
+  font-size: 1.1em;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  font-size: 0.85em;
+  color: #666;
+  line-height: 1.5;
+}
+
+.author__urls-wrapper {
+  a {
+    font-size: 0.85em;
+  }
+}
+
+// ─── Page content ───
+.page__content {
+  h2 {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: $text-color;
+    border-bottom: 2px solid $primary-color;
+    padding-bottom: 0.3em;
+    margin-top: 2em;
+  }
+
+  h3 {
+    font-weight: 600;
+    color: #444;
+  }
+
+  p {
+    font-size: 0.95em;
+    line-height: 1.75;
+    color: #3a3a3a;
+  }
+
+  a {
+    text-decoration: none;
+    border-bottom: 1px solid rgba($primary-color, 0.3);
+    transition: border-color 0.2s ease;
+
+    &:hover {
+      border-bottom-color: $primary-color;
+    }
+  }
+}
+
+// ─── Homepage intro section ───
+.intro-section {
+  margin-top: 1em;
+
+  .intro-lead {
+    font-size: 1em;
+    line-height: 1.7;
+    color: #444;
+    margin-bottom: 1.2em;
+  }
+
+  .intro-body {
+    font-size: 0.92em;
+    line-height: 1.7;
+    color: #3a3a3a;
+  }
+}
+
+// ─── Research highlights on homepage ───
+.research-highlight {
+  background: #f8fafa;
+  border-left: 3px solid $primary-color;
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  border-radius: 0 4px 4px 0;
+
+  h3 {
+    font-size: 0.95em;
+    font-weight: 600;
+    color: $text-color;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    font-size: 0.88em;
+    line-height: 1.65;
+    color: #555;
+    margin-bottom: 0;
+  }
+}
+
+// ─── Accent divider ───
+.accent-line {
+  width: 30px;
+  height: 2px;
+  background: $primary-color;
+  border: none;
+  margin: 1.2em 0;
+}
+
+// ─── Publication list ───
+.publication-list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    padding: 1em 0;
+    border-bottom: 1px solid #eee;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  .pub-title {
+    font-weight: 600;
+    font-size: 0.9em;
+    color: $text-color;
+    display: block;
+    margin-bottom: 0.3em;
+  }
+
+  .pub-authors {
+    font-size: 0.8em;
+    color: #666;
+    margin-bottom: 0.2em;
+  }
+
+  .pub-venue {
+    font-size: 0.78em;
+    font-style: italic;
+    color: #888;
+  }
+
+  .pub-links a {
+    font-size: 0.75em;
+    font-weight: 500;
+    color: $primary-color;
+    margin-right: 0.8em;
+    border-bottom: none;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+
+    &:hover {
+      color: darken($primary-color, 15%);
+    }
+  }
+}
+
+// ─── Footer ───
+.page__footer {
+  border-top: 1px solid #eee;
+  background: #fafafa;
+
+  footer {
+    font-size: 0.78em;
+    color: #999;
+  }
+}
+
+// ─── Remove archive list on homepage ───
+.home .archive__subtitle,
+.home .list__item {
+  display: none;
+}
+
+// ─── Mobile overrides ───
+@media (max-width: 600px) {
+  html {
+    font-size: 14px;
+  }
+  .intro-section {
+    .intro-lead {
+      font-size: 0.92em;
+      line-height: 1.6;
+    }
+    .intro-body {
+      font-size: 0.85em;
+      line-height: 1.6;
+    }
+  }
+
+  .page__content {
+    h2 {
+      font-size: 1.15em;
+    }
+    p {
+      font-size: 0.85em;
+    }
+  }
+
+  .publication-list {
+    .pub-title { font-size: 0.85em; }
+    .pub-authors { font-size: 0.75em; }
+    .pub-venue { font-size: 0.72em; }
+    .pub-links a { font-size: 0.7em; }
+  }
+}

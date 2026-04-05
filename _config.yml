@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Karen Schroeder"
   avatar           : "/assets/images/ks.jpg"
-  bio              : "Say hello! Email is the best way."
+  bio              : "Research scientist at Basis Research Institute."
   location         : "NYC"
   email            : # karen[at]basis.ai
   links:
@@ -125,18 +125,18 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/schroeder_ke"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://x.com/schroeder_ke"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/karen-schroeder-50519514/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/karschro"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=42aZ0fAAAAAJ&hl=en"
 
 # Site Footer
 # footer:
