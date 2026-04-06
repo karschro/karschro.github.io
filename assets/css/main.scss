@@ -24,6 +24,11 @@ $doc-font-size-x-large: 15px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// ─── Base font size overrides ───
+html {
+  font-size: 14px !important;
+}
+
 // ─── Masthead ───
 .masthead {
   padding-top: 1.5em;
@@ -160,8 +165,9 @@ $doc-font-size-x-large: 15px;
 
 // ─── Publication list ───
 .publication-list {
-  list-style: none;
-  padding: 0;
+  list-style: none !important;
+  padding: 0 !important;
+  margin-left: 0 !important;
 
   li {
     padding: 1em 0;

@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Karen Schroeder"
   avatar           : "/assets/images/ks.jpg"
-  bio              : "Research scientist at Basis Research Institute."
+  bio              : # ""
   location         : "NYC"
   email            : # karen[at]basis.ai
   links:
